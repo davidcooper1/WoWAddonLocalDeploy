@@ -1,0 +1,22 @@
+{
+  "name": "wowaddonlocaldeploy",
+  "version": "1.0.0",
+  "description": "Moves AddOn code to WoW AddOn directory.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidcooper1/WoWAddonLocalDeploy.git"
+  },
+  "author": "Furiedsteel",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/davidcooper1/WoWAddonLocalDeploy/issues"
+  },
+  "homepage": "https://github.com/davidcooper1/WoWAddonLocalDeploy#readme",
+  "dependencies": {
+    "chokidar": "^3.4.0"
+  }
+}
